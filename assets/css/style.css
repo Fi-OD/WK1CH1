@@ -39,6 +39,8 @@ header {
     background-color: #2a607c;
 }
 
+/*The code below is the company logo*/
+
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -47,6 +49,8 @@ header h1 {
 header h1 #seo {
     color: #d9dcd6;
 }
+
+/*the code below is for the navigation bar*/
 
 header nav {
     padding-top: 15px;
@@ -76,6 +80,7 @@ figure img{
     background-position: center;
 }
 
+/* the code below is for the main content of the web page*/
 
 main {
     width: 75%;
@@ -111,6 +116,8 @@ article h2 {
     margin-left: 25px;
 }
 
+/* the code below is for the content of the side bar*/
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -135,6 +142,8 @@ section img {
     margin: 10px auto;
     max-width: 150px
 }
+
+/*the code below is for the website footer*/
 
 footer {
     padding: 30px;
