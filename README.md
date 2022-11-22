@@ -136,7 +136,7 @@ You are required to submit the following for review:
 
 
 ## Badges
-https://img.shields.io/github/last-commit/Fi-OD/Wk1CH1?logo=GitHUB
+![GitHub last commit](https://img.shields.io/github/last-commit/Fi-OD/Wk1CH1?logo=GitHUB)
 
 ## Authors
 
