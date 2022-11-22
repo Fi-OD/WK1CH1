@@ -119,3 +119,29 @@ You are required to submit the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
+
+
+
+# Horiseon Webpage
+
+## Description
+
+ 
+
+
+## Usage
+
+
+
+## Badges
+https://img.shields.io/github/last-commit/Fi-OD/Wk1CH1?logo=GitHUB
+
+## Authors
+
+Fionnuala O'Donnell - Github:[Fi-OD](https://github.com/Fi-OD)
+
+## License
+
+Please refer to the LICENSE in the repo.
