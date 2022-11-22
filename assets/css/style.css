@@ -148,3 +148,8 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+
+footer #black {
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
