@@ -58,21 +58,13 @@ figure img{
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
 
 article {
     margin-bottom: 20px;
@@ -91,6 +83,16 @@ article h2 {
     margin-top: 20px;
     margin-bottom: 15px;
     font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 aside {
