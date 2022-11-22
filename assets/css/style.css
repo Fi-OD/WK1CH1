@@ -8,10 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-a {
-    text-decoration: none;
-}
-
 p {
     font-size: 16px;
 }
@@ -49,7 +45,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 #seo {
     color: #d9dcd6;
 }
 
@@ -67,6 +63,10 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+a {
+    text-decoration: none;
 }
 
 figure img{
