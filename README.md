@@ -10,6 +10,8 @@ The following changes were made:
 * CSS elements put into a sequential order
 
 ## Usage
+The following image shows the web applications appearance and functionality.
+
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](/assets/images/Horiseon-Webpage-screenshot.png)
 
 ## Technology
