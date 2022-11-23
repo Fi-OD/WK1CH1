@@ -9,6 +9,8 @@ The following changes were made:
 * HTML elements given a logical structure
 * CSS elements put into a sequential order
 
+## Usage
+```md ![alt text](assets\images\Horiseon-Webpage-screenshot.png)```
 
 ## Technology
 * HTML

@@ -80,14 +80,13 @@ figure img{
     background-position: center;
 }
 
-/* the code below is for the main content of the web page*/
+/* the code below is for the main content of the webpage*/
 
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
 
 article {
     margin-bottom: 20px;
@@ -143,7 +142,7 @@ section img {
     max-width: 150px
 }
 
-/*the code below is for the website footer*/
+/*the code below is for the websites footer*/
 
 footer {
     padding: 30px;
